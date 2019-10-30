@@ -1,5 +1,5 @@
 def hello
-  p "ONE PUNCH."
+  p "ONE PUNCH MAN."
 end
 
 hello
