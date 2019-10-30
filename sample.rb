@@ -1,5 +1,5 @@
 def hello
-  p "hello, world."
+  p "ONE PIECE."
 end
 
 hello
